@@ -1,3 +1,5 @@
+Project for learning React at WCS Nantes. This is a training.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
